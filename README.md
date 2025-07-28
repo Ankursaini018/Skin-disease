@@ -115,8 +115,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 - **Project Lead**: Ankur Saini
-- **Email**: sainianku018
-- @gmail.com
+- **Email**: sainianku018@gmail.com
 
 ## Acknowledgments
 
